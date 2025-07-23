@@ -2,7 +2,6 @@
 
 
 **Bless2000** 
-
 ##Software Engineer        
 
 - 🔭 I’m currently working on how to interact socially
