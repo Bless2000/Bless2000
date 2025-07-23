@@ -3,7 +3,7 @@
 
 **Bless2000** 
 
-  ###Software Engineer        
+###Software Engineer        
 
 - 🔭 I’m currently working on how to interact socially
 - 👯 I’m looking to collaborate on any cool project
